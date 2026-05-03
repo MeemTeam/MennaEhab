@@ -7,7 +7,7 @@
 body {
     font-family: Roboto;
     height: 100vh;
-    background-color: #e0cda9;
+    background-color:rgb(228,204,193);
 }
 
 .photo img {
@@ -45,7 +45,7 @@ h1 {
 }
 
 .container .card {
-    background-color: rgb(141, 119, 95);
+    background-color:#fff;
     box-shadow: 2px 2px 2px #000;
     width: 300px;
     height: 370px;
@@ -86,6 +86,8 @@ table th {
     background-color: rgb(141, 119, 95);
     letter-spacing: 1px;
     font-size: 30px;
+    background-color:rgb(156,120,103);
+    color:#fff;
 }
 
 table td {
@@ -96,7 +98,7 @@ table td {
 
 table td:hover {
     border-radius: 10px;
-    background-color: #a9846a;
+    background-color:rgb(156,120,103) ;
 }
 
 .button {
@@ -116,7 +118,7 @@ table td:hover {
 
 .button button:hover {
     border-radius: 15px;
-    background-color: #a9846a;
+    background-color:rgb(156,120,103);
 }
 
 section {
